@@ -60,9 +60,8 @@ plt.show()
 
 You can add a screenshot of your map by placing it in this folder and referencing it:
 
-```markdown
 ![World Map Screenshot](image.png)
-```
+
 
 ## Notes
 
