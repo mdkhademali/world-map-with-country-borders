@@ -5,6 +5,6 @@ import matplotlib.pyplot as plt
 world = gpd.read_file("ne_110m_admin_0_countries.shp")
 
 # plot
-world.plot(edgecolor="black", facecolor="lightblue")
+world.plot(edgecolor="orange", facecolor="lightblue")
 plt.title("World Map with Country Borders")
 plt.show()
