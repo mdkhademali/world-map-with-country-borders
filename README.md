@@ -56,12 +56,12 @@ plt.title("World Map with Country Borders")
 plt.show()
 ```
 
-## Screenshots
+## Image
 
 You can add a screenshot of your map by placing it in this folder and referencing it:
 
 ```markdown
-![World Map Screenshot](image/image.pngimage.png)
+![World Map Screenshot](image.png)
 ```
 
 ## Notes
